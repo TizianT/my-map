@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map"
+                 "value":"\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
          "height":100,
          "id":14,
          "name":"collision",
-         "opacity":0.71,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":100,
