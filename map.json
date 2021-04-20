@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/Level1.json"
+                 "value":"\/maps\/Level1.json"
                 }],
          "type":"tilelayer",
          "visible":true,

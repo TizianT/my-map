@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map"
+                 "value":"\/maps\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
          "height":100,
          "id":14,
          "name":"collision",
-         "opacity":0,
+         "opacity":0.71,
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -389,6 +389,16 @@
          "spacing":0,
          "tilecount":10000,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
