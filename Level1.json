@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/my-map\/Endhalle.json"
+                 "value":"\/Endhalle.json"
                 }],
          "type":"tilelayer",
          "visible":true,
