@@ -778,7 +778,7 @@
         {
          "id":77,
          "layers":[],
-         "name":"Oben_Collision",
+         "name":"------------------Oben_Collision-----------------------------",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -790,7 +790,7 @@
          "height":50,
          "id":61,
          "name":"Collision",
-         "opacity":0.44,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":50,
